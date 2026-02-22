@@ -24,8 +24,13 @@ Hi! Welcome to my github!
 - HTML/CSS
   
 **Editors & IDEs**: Helix, Vim, VS Code, Android Studio
+
 **Frameworks & Libraries**: .NET, Aurelia, ROS, Pandas, Numpy
+
 **Cloud & Platforms**: Azure Cloud, Google Cloud, Databricks, Data Factory
+
 **DevOps & Tools**: Nix, Linux, Git, Docker, Azure DevOps, GDB, Scrum
+
 **Databases**: PostgreSQL
+
 **Other**: LLM tooling, Ham Radio Technician (licensed)
