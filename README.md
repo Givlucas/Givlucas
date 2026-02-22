@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi! Welcome to my github! 
 
-<!--
-**Givlucas/Givlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Beliefs that drive my work
+- Purposeful and strategic development is key for success.
+- Being humble and admitting your mistakes is the only way to grow.
+- Being pro-active instead of re-active makes the world a better place.
+- Process without purpose is work without progress; work without process is work without purpose.
+- Urgency should not be conflated with pace; it is important to move deliberately rather than hastily
+- Form shapes function. Software is only as good as its codebase.
+- Pure honesty is key to healthy communication.
+- Trust but verify.
+- Motion ≠ impact.
+- Stability > Expansion.
+- **less is more.**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools I use
+**Languages** (ordered by familiarity):
+- Python
+- C#
+- Rust
+- TypeScript
+- Kotlin
+- C++
+- HTML/CSS
+  
+**Editors & IDEs**: Helix, Vim, VS Code, Android Studio
+**Frameworks & Libraries**: .NET, Aurelia, ROS, Pandas, Numpy
+**Cloud & Platforms**: Azure Cloud, Google Cloud, Databricks, Data Factory
+**DevOps & Tools**: Nix, Linux, Git, Docker, Azure DevOps, GDB, Scrum
+**Databases**: PostgreSQL
+**Other**: LLM tooling, Ham Radio Technician (licensed)
