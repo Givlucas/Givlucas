@@ -1,4 +1,4 @@
-Hi! Welcome to my github! 
+Hi! Welcome to my github! This page is deliberately simple :)
 
 # Beliefs that drive my work
 - Purposeful and strategic development is key for success.
