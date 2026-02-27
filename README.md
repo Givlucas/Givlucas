@@ -16,6 +16,7 @@ Hi! Welcome to my github! This page is deliberately simple :)
 # Tools I use
 **Languages** (ordered by familiarity):
 - Python
+- nix
 - C#
 - Rust
 - TypeScript
