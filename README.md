@@ -26,7 +26,7 @@ Hi! Welcome to my github! This page is deliberately simple :)
   
 **Editors & IDEs**: Helix, Vim, VS Code, Android Studio
 
-**Frameworks & Libraries**: .NET, Aurelia, ROS, Pandas, Numpy
+**Frameworks & Libraries**: .NET, Aurelia, ROS, Pandas, Numpy, blazor
 
 **Cloud & Platforms**: Azure Cloud, Google Cloud, Databricks, Data Factory
 
