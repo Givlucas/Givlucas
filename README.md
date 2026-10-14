@@ -34,4 +34,8 @@ Hi! Welcome to my github! This page is deliberately simple :)
 
 **Databases**: PostgreSQL
 
-**Other**: LLM tooling, Ham Radio Technician (licensed)
+**Other**: Ham Radio Technician (licensed)
+
+# Statement on LLMs
+I do not support the use of LLMs as knowledge workers and believe their use as such is an anti-pattern.
+I do not use LLMs in my work as of 2026/10/14, not even for reference.
